@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Art/Materials/Level
   m_LastFoldersGridSize: 90
-  m_LastProjectPath: C:\Users\Comp\AppData\Local\Temp\dd2d2aa78e217ec4690a1cc503f1b459
+  m_LastProjectPath: C:\Users\yatchi.lau\Documents\AssetStore_Staging\FPS\0227_FPSStag06
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
