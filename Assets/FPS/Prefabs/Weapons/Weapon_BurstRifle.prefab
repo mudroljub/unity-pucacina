@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 1258671292078172390}
   - component: {fileID: 3738335503562405914}
   m_Layer: 0
-  m_Name: BurstRifle
+  m_Name: Weapon_BurstRifle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -194,7 +194,7 @@ MonoBehaviour:
   aimOffset: {x: 0, y: 0.13, z: 0}
   ammoReloadRate: 9999
   ammoReloadDelay: 0.7
-  maxAmmo: 3
+  maxAmmo: 300
   automaticReleaseOnCharged: 0
   maxChargeDuration: 2
   ammoUsedOnStartCharge: 1
